@@ -1,3 +1,1 @@
-# Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project 
-
+The Blood Bank System is a comprehensive platform which is proposed to streamline and enhance the efficiency of blood donation processes. The aim of the project is to create a user-friendly portal that caters to the needs of donors, hospitals, and blood banks, enabling a seamless and organized blood donation ecosystem. 
